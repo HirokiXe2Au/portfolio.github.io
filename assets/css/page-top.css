@@ -1,0 +1,12 @@
+/*---------------------------------
+  bodyのプロパティ
+---------------------------------*/
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.l-input_data ul{
+    list-style: none;
+}
